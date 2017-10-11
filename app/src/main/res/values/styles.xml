@@ -1,0 +1,24 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <declare-styleable name="PagerSlidingTabStrip">
+        <attr name="slidingBlock" format="reference|color" />
+        <attr name="allowWidthFull" format="boolean" />
+        <attr name="disableViewPager" format="boolean" />
+        <attr name="isSlidingBlockBottom" format="boolean" />
+        <attr name="slidingBlockBottomSize" format="reference|dimension" />
+        <attr name="slidingBlockBottomPadding" format="reference|dimension" />
+    </declare-styleable>
+
+    <!--<style name="shopDetailsRatingBar">
+        <item name="android:progressDrawable">@drawable/select_shop_details_ratingbar</item>
+        <item name="android:gravity">center_vertical</item>
+    </style>-->
+
+</resources>

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\qrcode_default_grid_scan_line.png",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\cn.bingoogolapple\\bga-qrcodecore\\1.1.7\\res\\mipmap-xxhdpi-v4\\qrcode_default_grid_scan_line.png"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\btn_clear_input_normal.png",
+        "source": "E:\\Insurance\\tempcore\\src\\main\\res\\mipmap-xxhdpi\\btn_clear_input_normal.png"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\btn_clear_input_normal.png",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\src\\main\\res\\mipmap-xxhdpi\\btn_clear_input_normal.png"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\qrcode_default_scan_line.png",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\cn.bingoogolapple\\bga-qrcodecore\\1.1.7\\res\\mipmap-xxhdpi-v4\\qrcode_default_scan_line.png"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\btn_clear_input_pressed.png",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\src\\main\\res\\mipmap-xxhdpi\\btn_clear_input_pressed.png"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\qrcode_default_scan_line.png",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\cn.bingoogolapple\\bga-qrcodecore\\1.1.7\\res\\mipmap-xxhdpi-v4\\qrcode_default_scan_line.png"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "E:\\Insurance\\tempcore\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\qrcode_default_grid_scan_line.png",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\cn.bingoogolapple\\bga-qrcodecore\\1.1.7\\res\\mipmap-xxhdpi-v4\\qrcode_default_grid_scan_line.png"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\btn_clear_input_pressed.png",
+        "source": "E:\\Insurance\\tempcore\\src\\main\\res\\mipmap-xxhdpi\\btn_clear_input_pressed.png"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\clear.png",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\src\\main\\res\\mipmap-xxhdpi\\clear.png"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\clear.png",
+        "source": "E:\\Insurance\\tempcore\\src\\main\\res\\mipmap-xxhdpi\\clear.png"
+    }
+]

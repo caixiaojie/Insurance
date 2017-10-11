@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.clkj.insurance">
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <!-- GPS定位权限 -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:name=".app.App"
+        android:allowBackup="true"
+        android:icon="@mipmap/dl_2"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/TempAppTheme">
+
+        <!-- autoLayout配置 -->
+        <meta-data
+            android:name="design_width"
+            android:value="640" />
+        <meta-data
+            android:name="design_height"
+            android:value="1136" />
+
+        <!-- 首页 -->
+        <activity
+            android:name=".ActIndex"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 起运 -->
+        <activity
+            android:name=".activities.ActStart"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 搜索 -->
+        <activity
+            android:name=".activities.comSearch.ActSearch"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 登录 -->
+        <activity
+            android:name=".ActLogin"
+            android:configChanges="locale"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!-- 忘记密码 -->
+        <activity
+            android:name=".activities.comForgetPassword.ActForgetPassword"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 认证信息 审核中 -->
+        <activity
+            android:name=".activities.comReview.ActUnderReview"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 认证信息 审核成功 -->
+        <activity
+            android:name=".activities.comReview.ActReviewSuccess"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 认证信息 审核失败 -->
+        <activity
+            android:name=".activities.comReview.ActReviewFail"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="com.lzy.imagepicker.ui.ImagePreviewDelActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+
+        <!-- 注册第一步 -->
+        <activity
+            android:name=".activities.comRegister.ActRegister"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 注册下一步 -->
+        <activity
+            android:name=".activities.comRegister.ActRegisterNext"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 消息详情 -->
+        <activity
+            android:name=".activities.comMessage.ActMessageDetail"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 修改密码 -->
+        <activity
+            android:name=".activities.comChangePassword.ActChangePassword"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 认证信息 已认证 -->
+        <activity
+            android:name=".activities.comInformationAuthentication.ActInformationAuthenticationVerified"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 认证信息 未认证 -->
+        <activity
+            android:name=".activities.comInformationAuthentication.ActInformationAuthenticationUnVerified"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 运单详情 -->
+        <activity
+            android:name=".activities.comWaybill.ActWaybillDetail"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 选择地址第一步 -->
+        <activity
+            android:name=".activities.comSelectedAddress.ActSelectedAddressFirst"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 选择地址第二步 -->
+        <activity
+            android:name=".activities.comSelectedAddress.ActSelectedAddressSecond"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 选择地址第三步 -->
+        <activity
+            android:name=".activities.comSelectedAddress.ActSelectedAddressThird"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 运单详情 补传 -->
+        <activity
+            android:name=".activities.comComplementary.ActComplementary"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 报案 -->
+        <activity
+            android:name=".activities.comReport.ActReport"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <!-- 记录 -->
+        <activity
+            android:name=".activities.comRecording.ActRecording"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustPan" />
+        <activity android:name=".activities.comWaybill.ActReportRecord"></activity>
+    </application>
+
+</manifest>

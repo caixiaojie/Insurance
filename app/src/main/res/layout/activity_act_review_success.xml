@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_act_review_success"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.clkj.insurance.activities.comReview.ActReviewSuccess">
+    <include layout="@layout/normal_toolbar"></include>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="122px"
+        android:orientation="vertical"
+        >
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/shh_1"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="26px"
+            android:textColor="#5a5a5a"
+            android:text="恭喜,您的信息认证审核已通过!"
+            android:layout_marginTop="80px"
+            />
+        <TextView
+            android:id="@+id/act_review_success_sure"
+            android:layout_width="560px"
+            android:layout_height="74px"
+            android:textSize="30px"
+            android:textColor="#585858"
+            android:text="确  认"
+            android:layout_marginTop="122px"
+            android:background="@drawable/review_bg"
+            android:gravity="center"
+            />
+    </LinearLayout>
+</LinearLayout>

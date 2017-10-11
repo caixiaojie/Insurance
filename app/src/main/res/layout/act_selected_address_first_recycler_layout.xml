@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingRight="30px"
+    android:paddingLeft="30px"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="94px"
+        android:gravity="center_vertical"
+        >
+        <TextView
+            android:id="@+id/address_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="广东"
+            android:textSize="26px"
+            android:textColor="#5d5d5d"
+            />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/xz"
+            />
+    </LinearLayout>
+
+</LinearLayout>

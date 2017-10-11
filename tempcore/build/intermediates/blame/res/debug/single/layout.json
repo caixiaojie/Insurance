@@ -1,0 +1,818 @@
+[
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_list_footer_network_error.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\src\\main\\res\\layout\\layout_recyclerview_list_footer_network_error.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\temp_rv_progressbar.xml",
+        "source": "E:\\Insurance\\tempcore\\src\\main\\res\\layout\\temp_rv_progressbar.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_round.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.1\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\layout_indicator_view.xml",
+        "source": "E:\\Insurance\\tempcore\\src\\main\\res\\layout\\layout_indicator_view.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.1\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\recyclerview_fragment_pull_refresh.xml",
+        "source": "E:\\Insurance\\tempcore\\src\\main\\res\\layout\\recyclerview_fragment_pull_refresh.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\temp_layout_progress_recyclerview.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\src\\main\\res\\layout\\temp_layout_progress_recyclerview.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_large.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.1\\res\\layout\\messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_small.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.1\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\line_1px_has_m_20.xml",
+        "source": "E:\\Insurance\\tempcore\\src\\main\\res\\layout\\line_1px_has_m_20.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\temp_refresh_head.xml",
+        "source": "E:\\Insurance\\tempcore\\src\\main\\res\\layout\\temp_refresh_head.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\temp_custom_progress_dialog_layout.xml",
+        "source": "E:\\Insurance\\tempcore\\src\\main\\res\\layout\\temp_custom_progress_dialog_layout.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\include_pickerview_topbar.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.bigkoo\\pickerview\\2.1.0\\res\\layout\\include_pickerview_topbar.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_small.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.1\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\temp_rv_no_more.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\src\\main\\res\\layout\\temp_rv_no_more.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\recyclerview_error_layout.xml",
+        "source": "E:\\Insurance\\tempcore\\src\\main\\res\\layout\\recyclerview_error_layout.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_large.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.1\\res\\layout\\messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pull_refresh_recyclerview.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\src\\main\\res\\layout\\fragment_pull_refresh_recyclerview.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\temp_base_list_activity.xml",
+        "source": "E:\\Insurance\\tempcore\\src\\main\\res\\layout\\temp_base_list_activity.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_list_footer_end.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\src\\main\\res\\layout\\layout_recyclerview_list_footer_end.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.1\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\temp_gif_headview.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\src\\main\\res\\layout\\temp_gif_headview.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_footer.xml",
+        "source": "E:\\Insurance\\tempcore\\src\\main\\res\\layout\\layout_recyclerview_footer.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\line_1px_has_m_20.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\src\\main\\res\\layout\\line_1px_has_m_20.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.1\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\include_viewpager.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.bigkoo\\convenientbanner\\2.0.5\\res\\layout\\include_viewpager.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\temp_rv_empty.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\src\\main\\res\\layout\\temp_rv_empty.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.1\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_header.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\src\\main\\res\\layout\\layout_recyclerview_header.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\layout_basepickerview.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.bigkoo\\pickerview\\2.1.0\\res\\layout\\layout_basepickerview.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\recyclerview_empty_layout.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\src\\main\\res\\layout\\recyclerview_empty_layout.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.1\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_list_footer_loading.xml",
+        "source": "E:\\Insurance\\tempcore\\src\\main\\res\\layout\\layout_recyclerview_list_footer_loading.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_list_footer_loading.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\src\\main\\res\\layout\\layout_recyclerview_list_footer_loading.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_pull_refresh_recyclerview.xml",
+        "source": "E:\\Insurance\\tempcore\\src\\main\\res\\layout\\fragment_pull_refresh_recyclerview.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\line_1px_has_m_30.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\src\\main\\res\\layout\\line_1px_has_m_30.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\pickerview_time.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.bigkoo\\pickerview\\2.1.0\\res\\layout\\pickerview_time.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\include_pickerview_topbar.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.bigkoo\\pickerview\\2.1.0\\res\\layout\\include_pickerview_topbar.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\temp_photo_pk_layout.xml",
+        "source": "E:\\Insurance\\tempcore\\src\\main\\res\\layout\\temp_photo_pk_layout.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_large.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.1\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\temp_rv_empty.xml",
+        "source": "E:\\Insurance\\tempcore\\src\\main\\res\\layout\\temp_rv_empty.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\temp_rv_no_more.xml",
+        "source": "E:\\Insurance\\tempcore\\src\\main\\res\\layout\\temp_rv_no_more.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_footer.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\src\\main\\res\\layout\\layout_recyclerview_footer.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_list_footer.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\src\\main\\res\\layout\\layout_recyclerview_list_footer.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_large.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.1\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_device_auth_dialog_fragment.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.1\\res\\layout\\com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_header.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\src\\main\\res\\layout\\refresh_header.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\temp_load_more.xml",
+        "source": "E:\\Insurance\\tempcore\\src\\main\\res\\layout\\temp_load_more.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.1\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\temp_custom_progress_dialog_layout.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\src\\main\\res\\layout\\temp_custom_progress_dialog_layout.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\temp_refresh_head.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\src\\main\\res\\layout\\temp_refresh_head.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\temp_rv_load_more.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\src\\main\\res\\layout\\temp_rv_load_more.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\line_1px.xml",
+        "source": "E:\\Insurance\\tempcore\\src\\main\\res\\layout\\line_1px.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_list_footer_network_error.xml",
+        "source": "E:\\Insurance\\tempcore\\src\\main\\res\\layout\\layout_recyclerview_list_footer_network_error.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\line_20px_has_m_20.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\src\\main\\res\\layout\\line_20px_has_m_20.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\recyclerview_error_layout.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\src\\main\\res\\layout\\recyclerview_error_layout.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_list_footer.xml",
+        "source": "E:\\Insurance\\tempcore\\src\\main\\res\\layout\\layout_recyclerview_list_footer.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\temp_app_tool_bar_layout.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\src\\main\\res\\layout\\temp_app_tool_bar_layout.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\act_image_preview_layout.xml",
+        "source": "E:\\Insurance\\tempcore\\src\\main\\res\\layout\\act_image_preview_layout.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\image_preview.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\src\\main\\res\\layout\\image_preview.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\temp_toolbar.xml",
+        "source": "E:\\Insurance\\tempcore\\src\\main\\res\\layout\\temp_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\line_20px.xml",
+        "source": "E:\\Insurance\\tempcore\\src\\main\\res\\layout\\line_20px.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\pickerview_options.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.bigkoo\\pickerview\\2.1.0\\res\\layout\\pickerview_options.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\recyclerview_fragment_pull_refresh.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\src\\main\\res\\layout\\recyclerview_fragment_pull_refresh.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\temp_download_notification_layout.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\src\\main\\res\\layout\\temp_download_notification_layout.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\layout_indicator_view.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\src\\main\\res\\layout\\layout_indicator_view.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.1\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\temp_rv_progressbar.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\src\\main\\res\\layout\\temp_rv_progressbar.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\temp_toolbar.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\src\\main\\res\\layout\\temp_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\recyclerview_empty_layout.xml",
+        "source": "E:\\Insurance\\tempcore\\src\\main\\res\\layout\\recyclerview_empty_layout.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\pickerview_options.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.bigkoo\\pickerview\\2.1.0\\res\\layout\\pickerview_options.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\temp_download_notification_layout.xml",
+        "source": "E:\\Insurance\\tempcore\\src\\main\\res\\layout\\temp_download_notification_layout.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_view_error_layout.xml",
+        "source": "E:\\Insurance\\tempcore\\src\\main\\res\\layout\\refresh_view_error_layout.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_list_footer_end.xml",
+        "source": "E:\\Insurance\\tempcore\\src\\main\\res\\layout\\layout_recyclerview_list_footer_end.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\temp_layout_progress_recyclerview.xml",
+        "source": "E:\\Insurance\\tempcore\\src\\main\\res\\layout\\temp_layout_progress_recyclerview.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_header.xml",
+        "source": "E:\\Insurance\\tempcore\\src\\main\\res\\layout\\refresh_header.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\line_1px_has_m_30.xml",
+        "source": "E:\\Insurance\\tempcore\\src\\main\\res\\layout\\line_1px_has_m_30.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\line_20px.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\src\\main\\res\\layout\\line_20px.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.1\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\pickerview_time.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.bigkoo\\pickerview\\2.1.0\\res\\layout\\pickerview_time.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\temp_photo_pk_layout.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\src\\main\\res\\layout\\temp_photo_pk_layout.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_view_error_layout.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\src\\main\\res\\layout\\refresh_view_error_layout.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\temp_app_tool_bar_layout.xml",
+        "source": "E:\\Insurance\\tempcore\\src\\main\\res\\layout\\temp_app_tool_bar_layout.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\temp_gif_headview.xml",
+        "source": "E:\\Insurance\\tempcore\\src\\main\\res\\layout\\temp_gif_headview.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\include_viewpager.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.bigkoo\\convenientbanner\\2.0.5\\res\\layout\\include_viewpager.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\temp_rv_load_more.xml",
+        "source": "E:\\Insurance\\tempcore\\src\\main\\res\\layout\\temp_rv_load_more.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\line_20px_has_m_20.xml",
+        "source": "E:\\Insurance\\tempcore\\src\\main\\res\\layout\\line_20px_has_m_20.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\temp_load_more.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\src\\main\\res\\layout\\temp_load_more.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\act_image_preview_layout.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\src\\main\\res\\layout\\act_image_preview_layout.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\temp_base_list_activity.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\src\\main\\res\\layout\\temp_base_list_activity.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\layout_basepickerview.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.bigkoo\\pickerview\\2.1.0\\res\\layout\\layout_basepickerview.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.1\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\layout_recyclerview_header.xml",
+        "source": "E:\\Insurance\\tempcore\\src\\main\\res\\layout\\layout_recyclerview_header.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.0\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_round.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.1\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_device_auth_dialog_fragment.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.1\\res\\layout\\com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\line_1px.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\src\\main\\res\\layout\\line_1px.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\image_preview.xml",
+        "source": "E:\\Insurance\\tempcore\\src\\main\\res\\layout\\image_preview.xml"
+    },
+    {
+        "merged": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "D:\\ganhuo\\Insurance\\Insurance\\tempcore\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.10.1\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    }
+]
